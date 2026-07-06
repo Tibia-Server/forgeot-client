@@ -1,12 +1,12 @@
 {
   "files": [
     {
-      "localfile": "Contents/Resources/assets/appearances-aa44a154f30c7ed59acc25f246286396e4043851ef0b54ef3cf3951e46d1ce50.dat",
-      "packedhash": "d136c13ab0bae9ba4221ee013a432d572c80609d3a28cb2a62ab85d7cb8956b4",
-      "packedsize": 852325,
-      "url": "assets/appearances-aa44a154f30c7ed59acc25f246286396e4043851ef0b54ef3cf3951e46d1ce50.dat.lzma",
-      "unpackedhash": "4cde4ccb15c23c95597e74352e8f428a011388bf6629dccd673f6ddc77b65dea",
-      "unpackedsize": 4862287
+      "localfile": "Contents/Resources/assets/appearances-6adb790d1064c2d31ffb2e5ce1a7aef376942ba672edea2adb6cafc620dd18f1.dat",
+      "packedhash": "637b2bfd477503d6afe1b770bd8f3b22217c309025c70a0c0ae599f70a9c4878",
+      "packedsize": 852235,
+      "url": "assets/appearances-6adb790d1064c2d31ffb2e5ce1a7aef376942ba672edea2adb6cafc620dd18f1.dat.lzma",
+      "unpackedhash": "41b5f51ade1d075e9a603e1cfeca8e3519427bc9833c6da283f3ab751020008c",
+      "unpackedsize": 4862378
     },
     {
       "localfile": "Contents/Resources/assets/proficiencies-1a915dffd9265cd1c18d39e55da7ede691b2e58add534bc186238ae028a73f22.json",
@@ -26,19 +26,19 @@
     },
     {
       "localfile": "Contents/Resources/assets/catalog-content.json",
-      "packedhash": "80e4622e603ec1f04c7e55947482034a4ca46f3729a6de70d393004b97c8dfe8",
-      "packedsize": 236512,
+      "packedhash": "68bc72c18d095b49286910f549b1a42d121d2ac240258b36d48b0f824cd299ea",
+      "packedsize": 236832,
       "url": "assets/catalog-content.json.lzma",
-      "unpackedhash": "c57d70ba4f7e2cfb3bbb85c96572cf56854d71001f920f1e50c91b4e91748829",
+      "unpackedhash": "08e0c9d9b2c3b883d8b36a876e9b06d48289f41619ffe94a534aac23a39983b0",
       "unpackedsize": 970440
     },
     {
       "localfile": "Contents/Resources/sounds/catalog-sound.json",
-      "packedhash": "b4fd4bd783aabf935cfd88b276fec0ba570134cb3a20d9e63bd1d68b7e3d3912",
-      "packedsize": 118,
+      "packedhash": "b0348ba446dececfd0fbfca1e9e86af94e0e413efa759b225bc4a3d384168dd6",
+      "packedsize": 113,
       "url": "sounds/catalog-sound.json",
-      "unpackedhash": "b4fd4bd783aabf935cfd88b276fec0ba570134cb3a20d9e63bd1d68b7e3d3912",
-      "unpackedsize": 118
+      "unpackedhash": "b0348ba446dececfd0fbfca1e9e86af94e0e413efa759b225bc4a3d384168dd6",
+      "unpackedsize": 113
     },
     {
       "localfile": "Contents/Resources/assets/map-149b61053e2a4339363323799f63c6741ef7430730e74a9c51698db12a4c1e93.dat",
