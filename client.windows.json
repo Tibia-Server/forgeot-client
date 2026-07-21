@@ -59,19 +59,11 @@
     },
     {
       "localfile": "bin/client.exe",
-      "packedhash": "c80e3d20f918dfedc7d20736b39f45ce8c84470c3f52e3d9312a16b370a0b65c",
-      "packedsize": 9890763,
+      "packedhash": "d0cfb30e89a09a7a1ba420e68afe204aa0a869af54fd23e498f9a19a3799ca1f",
+      "packedsize": 9890768,
       "url": "bin/client.exe.lzma",
-      "unpackedhash": "7620ec9426b1ecc09b333d97bf124467b48b93bba887b36ab95418edb21189a5",
+      "unpackedhash": "24f219090376794723def74db2023305a2715485ef2b26e1e1f89d128fc6c088",
       "unpackedsize": 38285768
-    },
-    {
-      "localfile": "bin/client_launcher.exe",
-      "packedhash": "110c0c24955ddf9fd49347cf4df36b1d465f3e56e1169862bc308b85538382f2",
-      "packedsize": 876773,
-      "url": "bin/client_launcher.exe.lzma",
-      "unpackedhash": "0912b79762cab916ff5d59977efa148e87c64a5e0ba711f2000cdb8b2a02476e",
-      "unpackedsize": 1316104
     },
     {
       "localfile": "bin/D3Dcompiler_47.dll",
