@@ -1,5 +1,5 @@
 {
-  "version": "15.25.3a4a52",
+  "version": "15.30.358f69",
   "files": [
     {
       "localfile": "3rdpartylicences/apache-v2.txt",
@@ -51,19 +51,19 @@
     },
     {
       "localfile": "bin/client.en.qm",
-      "packedhash": "05a1672ae8139a2a9bf2d6dbd90a0e7ea4d83816cb29301ffc9b630448362d36",
-      "packedsize": 163888,
+      "packedhash": "2e1958d0a6e34627184bb191e5fc629ec36ce08b88e282f45caf49de3b1488c0",
+      "packedsize": 166678,
       "url": "bin/client.en.qm.lzma",
-      "unpackedhash": "18ee433fbc139999bb2682660c5556fa24535aada7e17ee96b3ef037462c17a2",
-      "unpackedsize": 725716
+      "unpackedhash": "52511245302425f65de76cefff3cfbc2c875b3e834118d9e274e3360043c1973",
+      "unpackedsize": 739124
     },
     {
       "localfile": "bin/client.exe",
-      "packedhash": "d0cfb30e89a09a7a1ba420e68afe204aa0a869af54fd23e498f9a19a3799ca1f",
-      "packedsize": 9890768,
+      "packedhash": "493e0f67e35b74df5c8f2f1ae01fdd96c5976f82bb59ae69efd8ef0fe0825898",
+      "packedsize": 10072326,
       "url": "bin/client.exe.lzma",
-      "unpackedhash": "24f219090376794723def74db2023305a2715485ef2b26e1e1f89d128fc6c088",
-      "unpackedsize": 38285768
+      "unpackedhash": "c74c2e3580b9380809a367f35d8fa890871d4178607a2b7b2a34209415127776",
+      "unpackedsize": 39206352
     },
     {
       "localfile": "bin/D3Dcompiler_47.dll",
@@ -83,19 +83,19 @@
     },
     {
       "localfile": "bin/graphics_resources.rcc",
-      "packedhash": "90b3412539637d5ebbb44188e3d7261ace4088d47872d03e8bad30c4b271b0f9",
-      "packedsize": 6713934,
+      "packedhash": "a33c36e3254359166ef8671540300635cc7984b3e966c5fb32c7eacee930740b",
+      "packedsize": 6569626,
       "url": "bin/graphics_resources.rcc.lzma",
-      "unpackedhash": "ec34d07e1a0ad91c9dd4837ae87abf85b68034293b7e1a37da2b9b9934066d53",
-      "unpackedsize": 6869932
+      "unpackedhash": "7586a61662530ffa70568b80d0db2979d834e6d61b06126f3dd354d27b69173d",
+      "unpackedsize": 6749160
     },
     {
       "localfile": "bin/qt.conf",
-      "packedhash": "8dc34ff0bb4dc02afdfd0e39c150a4dbe14b74e450dbcf9bdbffe78ae1e24cfa",
-      "packedsize": 85,
+      "packedhash": "db098e46c731495632c3dcafbdbb2ce150d94b45cb22acedf5c1ef9c68bb0dba",
+      "packedsize": 88,
       "url": "bin/qt.conf.lzma",
-      "unpackedhash": "450b82838801af405bcacebf73f6e0d300a61876ec2867260b7537a7e2d75de6",
-      "unpackedsize": 64
+      "unpackedhash": "7a14fe122d0903f3bbfc1359241cffc456b0355b61036e7dc7a837942934203f",
+      "unpackedsize": 69
     },
     {
       "localfile": "bin/Qt6Concurrent.dll",
@@ -483,11 +483,11 @@
     },
     {
       "localfile": "bin/qml/QML/qmldir",
-      "packedhash": "a1110bc02fa0c2b52390cd968fa9ac13c0d0b5f3bf076e872600642fcc72f2d8",
-      "packedsize": 119,
+      "packedhash": "e410955959fe49a968aca2be7c49599ebe85ee68b0169291ee115428ba3d4937",
+      "packedsize": 124,
       "url": "bin/qml/QML/qmldir.lzma",
-      "unpackedhash": "e7f96a2ecf537ff772872b3da26a77712c659c15328e77c5426e5d2f0d633114",
-      "unpackedsize": 107
+      "unpackedhash": "0ba0b60157111b988cc583b73ceb445a2d0c8633179513e284ede7a2794bce70",
+      "unpackedsize": 114
     },
     {
       "localfile": "bin/qml/Qt/labs/folderlistmodel/plugins.qmltypes",
@@ -499,11 +499,11 @@
     },
     {
       "localfile": "bin/qml/Qt/labs/folderlistmodel/qmldir",
-      "packedhash": "0722e33daccb10aebf07d0fc11504057074144d7eddf771ef8fae0642af9cd85",
-      "packedsize": 191,
+      "packedhash": "c7445faf7c108e0b4065effe3c553ced2581af73e2e1ddd25fb35c994e6af462",
+      "packedsize": 195,
       "url": "bin/qml/Qt/labs/folderlistmodel/qmldir.lzma",
-      "unpackedhash": "cb1d4c91ab43d52ca6dde5aae5a70c0c89811c132f77c69dc98b8820a147cd3a",
-      "unpackedsize": 258
+      "unpackedhash": "a021e22347bac8943e441bca5a4018328b252278dba053501854a92604098bd0",
+      "unpackedsize": 266
     },
     {
       "localfile": "bin/qml/Qt/labs/folderlistmodel/qmlfolderlistmodelplugin.dll",
@@ -531,11 +531,11 @@
     },
     {
       "localfile": "bin/qml/Qt/labs/qmlmodels/qmldir",
-      "packedhash": "9dfd21200d00c6239bb4ef99cc106b69d889c5f9bc936708b0fd378b8e97e8c3",
-      "packedsize": 177,
+      "packedhash": "9d6fb7dce959fb298fcbb3ccbeeb11c0e0742a39107b79ba1a295fac621621c5",
+      "packedsize": 183,
       "url": "bin/qml/Qt/labs/qmlmodels/qmldir.lzma",
-      "unpackedhash": "8ae287ed00333bfacc893a2d12c9d7238cd4e3b87ebdb5f6922ac5120f0f6ab8",
-      "unpackedsize": 227
+      "unpackedhash": "250314144302171279962588162765f7bfacafeedee6cb4addaf23b4e3ccaac4",
+      "unpackedsize": 235
     },
     {
       "localfile": "bin/qml/Qt5Compat/GraphicalEffects/Blend.qml",
@@ -699,11 +699,11 @@
     },
     {
       "localfile": "bin/qml/Qt5Compat/GraphicalEffects/qmldir",
-      "packedhash": "246b2e87442c454243a5a8ad4c721d12235c2ccb783f452359c4c08098349c79",
-      "packedsize": 561,
+      "packedhash": "cb70684ebde361ff9af3c563b61b7ecf2f3474b0f9727b5bb69913c3e6d86e55",
+      "packedsize": 570,
       "url": "bin/qml/Qt5Compat/GraphicalEffects/qmldir.lzma",
-      "unpackedhash": "98a18615c7efbc077efb6216a8584f0b54f78ecc558f570a91d590eeefd26c60",
-      "unpackedsize": 1945
+      "unpackedhash": "af190e27592c47d72992d7636fe27149d3d2e9f81036dff157b98aa4019ffecd",
+      "unpackedsize": 2006
     },
     {
       "localfile": "bin/qml/Qt5Compat/GraphicalEffects/qtgraphicaleffectsplugin.dll",
@@ -827,11 +827,11 @@
     },
     {
       "localfile": "bin/qml/Qt5Compat/GraphicalEffects/private/qmldir",
-      "packedhash": "4fd11890690ede855ef54f0c5cf6ecea99afa115b31c2881aef2c1c8390fe5a8",
-      "packedsize": 310,
+      "packedhash": "9b0829c26afc316c77d7b662cf144786301413ee474ece0ea5bf1f6dd9386d16",
+      "packedsize": 317,
       "url": "bin/qml/Qt5Compat/GraphicalEffects/private/qmldir.lzma",
-      "unpackedhash": "14e58ecafc03b03f79eb759a01fa5558c23b1079ebd44783c6018ebb606d4b7f",
-      "unpackedsize": 861
+      "unpackedhash": "2e8d977e9eb67e42261e475358037ee9c0b8bf4f025932e5b6d0d8e54dfc2a36",
+      "unpackedsize": 883
     },
     {
       "localfile": "bin/qml/Qt5Compat/GraphicalEffects/private/qtgraphicaleffectsprivateplugin.dll",
@@ -851,11 +851,11 @@
     },
     {
       "localfile": "bin/qml/QtCore/qmldir",
-      "packedhash": "be29e4f2e3a615ded65a72ee4376cdbbfd618748092890703af09da7ac125dda",
-      "packedsize": 173,
+      "packedhash": "8dc75d7c70f176efce19e962b4e2b2db3b65ca8031ab8888d4b403ce80e808b9",
+      "packedsize": 177,
       "url": "bin/qml/QtCore/qmldir.lzma",
-      "unpackedhash": "61b27bd68d5b81284cf1ca1c0b4305360427b5b4302aba62bcf77e4bf86cf2f8",
-      "unpackedsize": 208
+      "unpackedhash": "a14da79e8ed62a26e35e1caf4461736dca5371b22fec9490b689616d29eeef67",
+      "unpackedsize": 217
     },
     {
       "localfile": "bin/qml/QtCore/qtqmlcoreplugin.dll",
@@ -875,11 +875,11 @@
     },
     {
       "localfile": "bin/qml/QtQml/qmldir",
-      "packedhash": "bb6ec07334b0bf2861dcae301df6cf735aa23ee1340473e13679133529ce0275",
-      "packedsize": 187,
+      "packedhash": "be3a5fd51772deec9aa0413ad45a393228129af93e7f054a68f4e5e5a5b544f7",
+      "packedsize": 193,
       "url": "bin/qml/QtQml/qmldir.lzma",
-      "unpackedhash": "ff1b83e0cfee28b7dfc809f2acf8d1281e31f037481e80570ad4d23badbc67e2",
-      "unpackedsize": 242
+      "unpackedhash": "4487f30737a083fa69c5b9d408fc29856908cb50956a0652db50c47b9683a289",
+      "unpackedsize": 253
     },
     {
       "localfile": "bin/qml/QtQml/qmlplugin.dll",
@@ -907,11 +907,11 @@
     },
     {
       "localfile": "bin/qml/QtQml/Models/qmldir",
-      "packedhash": "54baf370f054443ea8c9faef309590bb2a32cbcb81127ff294d419f6ea1873bb",
-      "packedsize": 175,
+      "packedhash": "e9bb94d2e7c306204c3a95e88550220b2e4682a8273b017ab05694c68c531a40",
+      "packedsize": 179,
       "url": "bin/qml/QtQml/Models/qmldir.lzma",
-      "unpackedhash": "4abed3b5d84d4252f6bb292998a566b09a21ae4f2a435e6807cf7047fe14c58a",
-      "unpackedsize": 213
+      "unpackedhash": "313cec98e20382271b7627998f3afba3cbb1c69bc05204728406517000db0247",
+      "unpackedsize": 222
     },
     {
       "localfile": "bin/qml/QtQml/WorkerScript/plugins.qmltypes",
@@ -923,11 +923,11 @@
     },
     {
       "localfile": "bin/qml/QtQml/WorkerScript/qmldir",
-      "packedhash": "4788a3e0fb97ae69aed066e7c366c3932f388b27234f41de7c69cb718a534dbb",
-      "packedsize": 184,
+      "packedhash": "988e72dccef687731ba07883a35339ff9d20670fc8b0f222d597c80ebe250d15",
+      "packedsize": 188,
       "url": "bin/qml/QtQml/WorkerScript/qmldir.lzma",
-      "unpackedhash": "4ed1b6b0ad3980ae5c882f5c0a4eea8a84bcca35c300f0eec430b89cd30ff768",
-      "unpackedsize": 243
+      "unpackedhash": "7e930397861106a9a5931f5448f76b3e981c0bc0c150a1e7bc6fbe6a049f9ed8",
+      "unpackedsize": 252
     },
     {
       "localfile": "bin/qml/QtQml/WorkerScript/workerscriptplugin.dll",
@@ -947,11 +947,11 @@
     },
     {
       "localfile": "bin/qml/QtQuick/qmldir",
-      "packedhash": "9a5db7be43619e4d21d68430065cc5a84cad76b4c75b0dc22052827c68af2d77",
-      "packedsize": 166,
+      "packedhash": "396817ef9c6950a26b64283a947e52395be1635aeb05548532e8bafb8c8e7e81",
+      "packedsize": 173,
       "url": "bin/qml/QtQuick/qmldir.lzma",
-      "unpackedhash": "c2fa2b26d9f8094c6eeb6ff924b18088ddcd512e133524e55b13fa3e5e70350b",
-      "unpackedsize": 206
+      "unpackedhash": "137c386f9b2ba49fb3a3417b55096f6f1bd15a794a98613a862b490a6fe4fa79",
+      "unpackedsize": 215
     },
     {
       "localfile": "bin/qml/QtQuick/qtquick2plugin.dll",
@@ -971,11 +971,11 @@
     },
     {
       "localfile": "bin/qml/QtQuick/Controls/qmldir",
-      "packedhash": "3cbef255bbae846d5303b1d22bc1a2acc5a81cd897d85d7f7967798e874693e2",
-      "packedsize": 266,
+      "packedhash": "3a20d2c3be35f7fec51363484a9d00a356ba8a17e1431dff4b18b7473f1bb1f6",
+      "packedsize": 270,
       "url": "bin/qml/QtQuick/Controls/qmldir.lzma",
-      "unpackedhash": "e31a8439ec75ddf427688f351610c2410633f813603560a5448d2e45d8b63907",
-      "unpackedsize": 649
+      "unpackedhash": "5919bda2e85c7312b3091e368e42fb75e29a2a8ccfcb6a529575c85b0693d79e",
+      "unpackedsize": 667
     },
     {
       "localfile": "bin/qml/QtQuick/Controls/qtquickcontrols2plugin.dll",
@@ -1283,11 +1283,11 @@
     },
     {
       "localfile": "bin/qml/QtQuick/Controls/Basic/qmldir",
-      "packedhash": "a7e8dd8aba59c188fbfd1951929b5f4d93ef44b2d5a23412ecf8456ea7b81f70",
-      "packedsize": 995,
+      "packedhash": "44d8c9f214ed67cd22d652e54995a4cf391f2643f2d088ef4d05d951ca95e0c2",
+      "packedsize": 1008,
       "url": "bin/qml/QtQuick/Controls/Basic/qmldir.lzma",
-      "unpackedhash": "29eef6eccd36f0d2c7372d76bf03228022bc7917220365073caa264c736beaab",
-      "unpackedsize": 3974
+      "unpackedhash": "dc9cd336d78fe9af54f1dbee3fcbccb86f2a9393b088afc169614b2626ac2f5c",
+      "unpackedsize": 4107
     },
     {
       "localfile": "bin/qml/QtQuick/Controls/Basic/qtquickcontrols2basicstyleplugin.dll",
@@ -1539,11 +1539,11 @@
     },
     {
       "localfile": "bin/qml/QtQuick/Controls/Basic/impl/qmldir",
-      "packedhash": "39210554cbe2a6a46c40c484f9af6579359fe244ccf31a07c5d4b3f5757a7b47",
-      "packedsize": 204,
+      "packedhash": "196ede2f0a02383ebb85b143012a551bfaac5ea0a9359fcdc97bd7dc03bc2a22",
+      "packedsize": 209,
       "url": "bin/qml/QtQuick/Controls/Basic/impl/qmldir.lzma",
-      "unpackedhash": "2b769cdac746b8cf3da6daca4f57fe38743013b2efa20571cc176ff3e83fe060",
-      "unpackedsize": 313
+      "unpackedhash": "d6e86f04ec9feaf10bfa1b03be182ebd92dfcb4aee5a837c2e8a8d485d92dfc5",
+      "unpackedsize": 322
     },
     {
       "localfile": "bin/qml/QtQuick/Controls/Basic/impl/qtquickcontrols2basicstyleimplplugin.dll",
@@ -1739,11 +1739,11 @@
     },
     {
       "localfile": "bin/qml/QtQuick/Controls/FluentWinUI3/qmldir",
-      "packedhash": "f0bcbde616badc03570e5be99344783fbc5cbfa6de63a86192015dfe0ae8c201",
-      "packedsize": 680,
+      "packedhash": "4dc130016c86b308a1b811fbdaa2170832740579790e0fc0bec339c44a3c06a0",
+      "packedsize": 695,
       "url": "bin/qml/QtQuick/Controls/FluentWinUI3/qmldir.lzma",
-      "unpackedhash": "4ab93fb041cfed6af4cb69d471d7f5fa785e5b77e3b7a77a381d6d434544c5c4",
-      "unpackedsize": 2676
+      "unpackedhash": "72111be0f68d1301bdc98523bbf1e9a23cbf6f7d4ea9097ea453a33603e1d8cd",
+      "unpackedsize": 2765
     },
     {
       "localfile": "bin/qml/QtQuick/Controls/FluentWinUI3/qtquickcontrols2fluentwinui3styleplugin.dll",
@@ -5099,11 +5099,11 @@
     },
     {
       "localfile": "bin/qml/QtQuick/Controls/FluentWinUI3/impl/qmldir",
-      "packedhash": "e80a470ac83b5bfee66d1cad970b8f0eb2aa7188544bbec096c4dade40fc5c14",
-      "packedsize": 323,
+      "packedhash": "97cdb3dcf2029580528402f3ce5dc9dfbb0b14262ae0253e513c5204b1f96a46",
+      "packedsize": 329,
       "url": "bin/qml/QtQuick/Controls/FluentWinUI3/impl/qmldir.lzma",
-      "unpackedhash": "0dd9e53476e9f7d93c9be824b2249cc43d8991f719e5e61cede945fbf5abc025",
-      "unpackedsize": 784
+      "unpackedhash": "5424d6087e4fc0774aa4c8505093f8c932b62bc4414f51512ff0bb6a1b37723e",
+      "unpackedsize": 805
     },
     {
       "localfile": "bin/qml/QtQuick/Controls/FluentWinUI3/impl/qtquickcontrols2fluentwinui3styleimplplugin.dll",
@@ -8475,11 +8475,11 @@
     },
     {
       "localfile": "bin/qml/QtQuick/Controls/Fusion/qmldir",
-      "packedhash": "23dbe546e6cc385cf580e20bdbfd6ded894cc05685e0b429bcf20178181f3c30",
-      "packedsize": 825,
+      "packedhash": "c204c467552ce366eea192b2b084663403382ccdd03408bac2f194c32a87eec8",
+      "packedsize": 835,
       "url": "bin/qml/QtQuick/Controls/Fusion/qmldir.lzma",
-      "unpackedhash": "6e312a1f44ffdaec6e8ca0be8091346ffc8bb0b50296b4c3c18cfdd79cff247a",
-      "unpackedsize": 3345
+      "unpackedhash": "846118ebce9bf3f1de7ab5e0756dc3ef1bc07f04095fe63eb97bb0f158d64218",
+      "unpackedsize": 3457
     },
     {
       "localfile": "bin/qml/QtQuick/Controls/Fusion/qtquickcontrols2fusionstyleplugin.dll",
@@ -8715,11 +8715,11 @@
     },
     {
       "localfile": "bin/qml/QtQuick/Controls/Fusion/impl/qmldir",
-      "packedhash": "55015347d4d360d2001fa569e460e9bdb1b062333aae708a4875b4628f39178e",
-      "packedsize": 332,
+      "packedhash": "4cb80719198d7a438fc6f612e3bdde1cc1e2ee60defab0b66853e446d30e0c47",
+      "packedsize": 338,
       "url": "bin/qml/QtQuick/Controls/Fusion/impl/qmldir.lzma",
-      "unpackedhash": "0b8cc1f278486453ff5d764822f1c1d2374ab3caa30c622f6477006c002ae9c2",
-      "unpackedsize": 846
+      "unpackedhash": "b0551d554f4591100bf44ab1975b58ed76a4fd4607750b650fced2d1ad3ec4b7",
+      "unpackedsize": 869
     },
     {
       "localfile": "bin/qml/QtQuick/Controls/Fusion/impl/qtquickcontrols2fusionstyleimplplugin.dll",
@@ -8971,11 +8971,11 @@
     },
     {
       "localfile": "bin/qml/QtQuick/Controls/Imagine/qmldir",
-      "packedhash": "bf660a3b2ee5c97e722eacea344026c62cbeb88d9aea2bb00cb969a53b192ead",
-      "packedsize": 804,
+      "packedhash": "e5f4c9c5b2d950c032e0adb4e528c6140dc2eac08fbe9116502037c25a1f43b7",
+      "packedsize": 815,
       "url": "bin/qml/QtQuick/Controls/Imagine/qmldir.lzma",
-      "unpackedhash": "66afb08a58cb28a2a490c585da10f7dc7e96dc3eed6c8296dcc477e1989dbb74",
-      "unpackedsize": 3245
+      "unpackedhash": "c86e451b2d8e26d4271d7273ea3a0441ac4f2e88047c38a46552168cec322f96",
+      "unpackedsize": 3354
     },
     {
       "localfile": "bin/qml/QtQuick/Controls/Imagine/qtquickcontrols2imaginestyleplugin.dll",
@@ -9203,11 +9203,11 @@
     },
     {
       "localfile": "bin/qml/QtQuick/Controls/Imagine/impl/qmldir",
-      "packedhash": "0c5c7931168ef945095dace50983ec2f14ef5ba3949fb237ea70050a57b3d6c9",
-      "packedsize": 232,
+      "packedhash": "d28750b0a461a442702790765c2813f55acc69bbdb83ca331bfeb7511d78b539",
+      "packedsize": 239,
       "url": "bin/qml/QtQuick/Controls/Imagine/impl/qmldir.lzma",
-      "unpackedhash": "76b207553f1ae6d685768fe2d7a2cf227825268d567504ec12456665a2602a8d",
-      "unpackedsize": 391
+      "unpackedhash": "43751b206c90105f33fec362e468b4d8e5791d286ae6a7ffa1c62c81954c8c51",
+      "unpackedsize": 401
     },
     {
       "localfile": "bin/qml/QtQuick/Controls/Imagine/impl/qtquickcontrols2imaginestyleimplplugin.dll",
@@ -9235,11 +9235,11 @@
     },
     {
       "localfile": "bin/qml/QtQuick/Controls/impl/qmldir",
-      "packedhash": "0bafc7dcae4677c5b24544e64b8ac1ba13a8f79e34b7c36ae54c8490993df0d2",
-      "packedsize": 197,
+      "packedhash": "392f855a1949d877fbdb71863dbb4704f6e72aa8f91d74e517bcf06d74983de7",
+      "packedsize": 202,
       "url": "bin/qml/QtQuick/Controls/impl/qmldir.lzma",
-      "unpackedhash": "12d4c222f4d5ffdd862f282c7c23893a43329f7b8f8bb3771688a4703f78611d",
-      "unpackedsize": 302
+      "unpackedhash": "bd12109174c6e0d6dde0f3a94cc91368eda41efaecd8adc5b5a00dc167e7cb75",
+      "unpackedsize": 312
     },
     {
       "localfile": "bin/qml/QtQuick/Controls/impl/qtquickcontrols2implplugin.dll",
@@ -9467,11 +9467,11 @@
     },
     {
       "localfile": "bin/qml/QtQuick/Controls/Material/qmldir",
-      "packedhash": "6f327d5fbb6b0f9d330cf75decacfebd995e195b4d7093cb65026ae17e4f6d26",
-      "packedsize": 844,
+      "packedhash": "9ce42243334d6937756d4c5081e8f54435bf2dbbb60b64642506281055cf6005",
+      "packedsize": 856,
       "url": "bin/qml/QtQuick/Controls/Material/qmldir.lzma",
-      "unpackedhash": "8f0a56d11febab24d2084b5f719bff8673992671ae5b208c97b90e90be170955",
-      "unpackedsize": 3467
+      "unpackedhash": "ab07c0d72fadc1ddbde8087e1225981edae4019c970e4f92f63b10e90d11bd0d",
+      "unpackedsize": 3583
     },
     {
       "localfile": "bin/qml/QtQuick/Controls/Material/qtquickcontrols2materialstyleplugin.dll",
@@ -9739,11 +9739,11 @@
     },
     {
       "localfile": "bin/qml/QtQuick/Controls/Material/impl/qmldir",
-      "packedhash": "ad4df5a08df2a1881768131d69995d842365ceab95e90e3302e60f57d99920cc",
-      "packedsize": 377,
+      "packedhash": "9bab06469c197a8afd5e8c47aa806a2dc1e444591f35379898c0e67330a7e3fa",
+      "packedsize": 383,
       "url": "bin/qml/QtQuick/Controls/Material/impl/qmldir.lzma",
-      "unpackedhash": "8d3d29a3e2fed54178badd16f294bf6c5ffe08fbd44a4918927701149eeb0b17",
-      "unpackedsize": 1063
+      "unpackedhash": "861014f21bb3794921fc5285b54443f3a589e9b8be454d9af7af8fbc2c3351b1",
+      "unpackedsize": 1091
     },
     {
       "localfile": "bin/qml/QtQuick/Controls/Material/impl/qtquickcontrols2materialstyleimplplugin.dll",
@@ -10011,11 +10011,11 @@
     },
     {
       "localfile": "bin/qml/QtQuick/Controls/Universal/qmldir",
-      "packedhash": "dd36a615f5f1bd6ecce5c9a4f557e1aed31e0a651d6e6049105bec7a8610ce8a",
-      "packedsize": 823,
+      "packedhash": "686e5e4f2fec0b6c44dc802b235aacf57e2496222d46d0dd82be3647c57e7a05",
+      "packedsize": 835,
       "url": "bin/qml/QtQuick/Controls/Universal/qmldir.lzma",
-      "unpackedhash": "0d76e75e893cb6d3c578fe67916009eb03c08b4e165ca858991bacd78034bad6",
-      "unpackedsize": 3332
+      "unpackedhash": "4301150c3c146b8f70f4794faa2adee397325b26fab579b826afcc68cd808d78",
+      "unpackedsize": 3444
     },
     {
       "localfile": "bin/qml/QtQuick/Controls/Universal/qtquickcontrols2universalstyleplugin.dll",
@@ -10243,11 +10243,11 @@
     },
     {
       "localfile": "bin/qml/QtQuick/Controls/Universal/impl/qmldir",
-      "packedhash": "1e49180414e05999fb983b9253c1a60f12658bb1ab774a4632bc9db5e7dba292",
-      "packedsize": 262,
+      "packedhash": "7d4c3b211394bcc036ca899b33110d07ba2bd5cb8650c0683cd39ee970bdb6ee",
+      "packedsize": 267,
       "url": "bin/qml/QtQuick/Controls/Universal/impl/qmldir.lzma",
-      "unpackedhash": "e771d35b8323f8aec7973b7c03dbb471abdb5eeb1b88cddb34cb03a67533d598",
-      "unpackedsize": 565
+      "unpackedhash": "6930e2380013df8298c5d5dbc2ba3b3dc6150eb8b20218a23cadc6503a3e23e8",
+      "unpackedsize": 580
     },
     {
       "localfile": "bin/qml/QtQuick/Controls/Universal/impl/qtquickcontrols2universalstyleimplplugin.dll",
@@ -10403,11 +10403,11 @@
     },
     {
       "localfile": "bin/qml/QtQuick/Controls/Windows/qmldir",
-      "packedhash": "dabf752774ab24704c71e93132989b53a00540ce4215d6564986613e828451de",
-      "packedsize": 555,
+      "packedhash": "42b8b7085c5704f3bb898e45c1f9a264a431ef382afd36178891fd46ca476001",
+      "packedsize": 566,
       "url": "bin/qml/QtQuick/Controls/Windows/qmldir.lzma",
-      "unpackedhash": "923f6c23ba588c790aa0daab5b3f6709ec021ea9772d89a84052748ff81e69f8",
-      "unpackedsize": 1983
+      "unpackedhash": "1a9ff69287879713a712fc0957f547238a304970c1451ea8af0e67c5282bbc98",
+      "unpackedsize": 2048
     },
     {
       "localfile": "bin/qml/QtQuick/Controls/Windows/qtquickcontrols2windowsstyleplugin.dll",
@@ -10579,11 +10579,11 @@
     },
     {
       "localfile": "bin/qml/QtQuick/Controls/Windows/impl/qmldir",
-      "packedhash": "dce956f2365a09daf381e521fc4984f9a0dbd488efe17c04f470e25ce957ce8d",
-      "packedsize": 245,
+      "packedhash": "448b1ad65a0f2b76d91e50f5f80e070d7bca8f930691b8e0ce29096d1fb032e7",
+      "packedsize": 250,
       "url": "bin/qml/QtQuick/Controls/Windows/impl/qmldir.lzma",
-      "unpackedhash": "315788a32221bd37183f2db501c182bf2396d95564933e44dc70a163da3a011c",
-      "unpackedsize": 486
+      "unpackedhash": "8eff4b2d81b9ae4983f66bade6cc5956d61782e8264fb082850a88d9f98c05b4",
+      "unpackedsize": 498
     },
     {
       "localfile": "bin/qml/QtQuick/Controls/Windows/impl/qtquickcontrols2windowsstyleimplplugin.dll",
@@ -10619,11 +10619,11 @@
     },
     {
       "localfile": "bin/qml/QtQuick/Dialogs/qmldir",
-      "packedhash": "4a8e38cce2d50165c98def79e43e99d6d1bb177f3d6d3384ba63f6d725df1009",
-      "packedsize": 182,
+      "packedhash": "9f13731ee4037d47fa42dd102163552910f263ca150b44abf0e2af69e7b3fcb2",
+      "packedsize": 187,
       "url": "bin/qml/QtQuick/Dialogs/qmldir.lzma",
-      "unpackedhash": "0708f14deaea0bd4fe4ac485860a27434ed734a220fcd1c9b4c0b3670135d4c4",
-      "unpackedsize": 280
+      "unpackedhash": "bb29bfb1dd2ff73e55f71a7154e152c5e690a2500f7a9cb55f95e5664c8bc4eb",
+      "unpackedsize": 290
     },
     {
       "localfile": "bin/qml/QtQuick/Dialogs/qtquickdialogsplugin.dll",
@@ -10643,11 +10643,11 @@
     },
     {
       "localfile": "bin/qml/QtQuick/Dialogs/quickimpl/qmldir",
-      "packedhash": "3f8c25f27122cbff4f1dccdd0048fce081031a216f2aab8b1525ec3e826774bb",
-      "packedsize": 585,
+      "packedhash": "9e18fa820c150c65a25938f2a726a639d27193cc4a1c52be6c9d9ab1f690b33c",
+      "packedsize": 595,
       "url": "bin/qml/QtQuick/Dialogs/quickimpl/qmldir.lzma",
-      "unpackedhash": "2bea08d81398e6a71fc613c0f4feed4e4d4075ec2afa28035f35fea5cf3bfdf4",
-      "unpackedsize": 3051
+      "unpackedhash": "e30366e941879ad3bf520312725e089e302299345cc0de99cca04b7bf89762c7",
+      "unpackedsize": 3118
     },
     {
       "localfile": "bin/qml/QtQuick/Dialogs/quickimpl/qtquickdialogs2quickimplplugin.dll",
@@ -11123,11 +11123,11 @@
     },
     {
       "localfile": "bin/qml/QtQuick/Effects/qmldir",
-      "packedhash": "042e31d0c107e398ac06f6c487c334c6b6da7163ca98bbc74ab45e4591b34288",
-      "packedsize": 167,
+      "packedhash": "08b7e2a9c13d7d16bb3b93a782781622ad4695953494c32d90fed41e0cb73b15",
+      "packedsize": 172,
       "url": "bin/qml/QtQuick/Effects/qmldir.lzma",
-      "unpackedhash": "392b88e39eb1739967367d34c302cbc6ba20da716106bd76329c07d305b71796",
-      "unpackedsize": 227
+      "unpackedhash": "ffff8737005d0ab2444a575043a7101ec3f4e3c2f330a9f1aed546793550b167",
+      "unpackedsize": 236
     },
     {
       "localfile": "bin/qml/QtQuick/Layouts/plugins.qmltypes",
@@ -11139,11 +11139,11 @@
     },
     {
       "localfile": "bin/qml/QtQuick/Layouts/qmldir",
-      "packedhash": "3ef5428c3f18d5ddcaa5a771f5c5957cf32fbc33f47d2c76a1461fef5080c8cb",
-      "packedsize": 180,
+      "packedhash": "0bf993340f511db42ee5a838791f2a8ef83726bd53690b35a5f4c52857d24ac0",
+      "packedsize": 184,
       "url": "bin/qml/QtQuick/Layouts/qmldir.lzma",
-      "unpackedhash": "0601e05b583c24ee72158ab8553f9d2435dfe08dc5be20bf2e03fa24058ba4cb",
-      "unpackedsize": 241
+      "unpackedhash": "be7bc0d0defd3037fd4493987ade323210f191bad527255eb32d1df15b1b8edf",
+      "unpackedsize": 250
     },
     {
       "localfile": "bin/qml/QtQuick/Layouts/qquicklayoutsplugin.dll",
@@ -11163,11 +11163,11 @@
     },
     {
       "localfile": "bin/qml/QtQuick/NativeStyle/qmldir",
-      "packedhash": "cdad9f1765721ae05b5dbd7ae4635f528f9dd88a521d73abf30abdb40ec35843",
-      "packedsize": 482,
+      "packedhash": "150cd038ffa571807d100611e5084f7c8367b6d80781c1707f2d7a71dbd2fd06",
+      "packedsize": 488,
       "url": "bin/qml/QtQuick/NativeStyle/qmldir.lzma",
-      "unpackedhash": "e05b6604897790fa526a671952b62749a70e6ba254e6a89412c0c84ae6e45d60",
-      "unpackedsize": 2206
+      "unpackedhash": "c1cdd4caf841896c98776dbd2ab80637dad6a05df038c2360a45b6fb8f1e47ab",
+      "unpackedsize": 2253
     },
     {
       "localfile": "bin/qml/QtQuick/NativeStyle/qtquickcontrols2nativestyleplugin.dll",
@@ -11187,11 +11187,11 @@
     },
     {
       "localfile": "bin/qml/QtQuick/Shapes/qmldir",
-      "packedhash": "b0fb7984a286243bd34399b966fe311b382398ef450ba4d1a88cc3e373b108bf",
-      "packedsize": 162,
+      "packedhash": "cd3b4f5fb9c33137aafa57d0e013729c911c6bed863044dd0f7b0904c634e651",
+      "packedsize": 167,
       "url": "bin/qml/QtQuick/Shapes/qmldir.lzma",
-      "unpackedhash": "fbebfff93729f32b000c9d467282655814eea445a92f0979989207870ce25ddd",
-      "unpackedsize": 199
+      "unpackedhash": "de2dab12c07574207db93315ebf5bd6ec6656d1aa506df756328f73342b2a7f9",
+      "unpackedsize": 207
     },
     {
       "localfile": "bin/qml/QtQuick/Shapes/qmlshapesplugin.dll",
@@ -11211,11 +11211,11 @@
     },
     {
       "localfile": "bin/qml/QtQuick/Templates/qmldir",
-      "packedhash": "b099a7a1ebff3cc30e296615daaab54d0560ab7d3a5e57749c8bf0220e3bbe60",
-      "packedsize": 169,
+      "packedhash": "f9836572084ea20d441a9fa4c7122386a3e5fb778f92da568901ab6f4b0a92a7",
+      "packedsize": 174,
       "url": "bin/qml/QtQuick/Templates/qmldir.lzma",
-      "unpackedhash": "3f52fe36d3bdd6ecdf7e1b3555df1123dbb522fa75fa94e872726937e91fb459",
-      "unpackedsize": 245
+      "unpackedhash": "acb0a8aebbcc9f8c4af567294f599aeed625cf378e790fba4fd024b10391be17",
+      "unpackedsize": 254
     },
     {
       "localfile": "bin/qml/QtQuick/Templates/qtquicktemplates2plugin.dll",
@@ -11227,11 +11227,11 @@
     },
     {
       "localfile": "bin/qml/QtQuick/Window/qmldir",
-      "packedhash": "6dd03b707acc7f614df0ec02ce7542a828f1b583e2394a8ee4c5277703d36851",
-      "packedsize": 156,
+      "packedhash": "419ff3edabd298b9dc33e97d2b42eceebd8809833a76fd3a62de0847da49aadd",
+      "packedsize": 162,
       "url": "bin/qml/QtQuick/Window/qmldir.lzma",
-      "unpackedhash": "c0509023b1bcce5f27262aa84f3a6016fb188971fecc58eea98b897a9aa42eb5",
-      "unpackedsize": 205
+      "unpackedhash": "cf518c3574e25f91acaec7ad8831e28c18fccfe15411672ea56809b2eb94077c",
+      "unpackedsize": 213
     },
     {
       "localfile": "bin/qml/QtQuick/Window/quickwindow.qmltypes",
@@ -11259,11 +11259,11 @@
     },
     {
       "localfile": "bin/qml/QtWebChannel/qmldir",
-      "packedhash": "42af0b98adc60bc0dd69039da15249cc68761adb2dda26f146c6406d905d804b",
-      "packedsize": 154,
+      "packedhash": "a23744df21e1dd44ad14e02c317bfaaae4b9f3dcecddcaa6213a859707523e30",
+      "packedsize": 159,
       "url": "bin/qml/QtWebChannel/qmldir.lzma",
-      "unpackedhash": "be66d8fe51a5a983116529b0093cc0ad57218a7525fcf65d51a5c3e8ddbe35ee",
-      "unpackedsize": 198
+      "unpackedhash": "0d728adee8ed1308524a8b3e5234781d8207a15dd6c738b74e62246f9679d21d",
+      "unpackedsize": 205
     },
     {
       "localfile": "bin/qml/QtWebChannel/webchannelquickplugin.dll",
@@ -11283,11 +11283,11 @@
     },
     {
       "localfile": "bin/qml/QtWebEngine/qmldir",
-      "packedhash": "6b843f00729d53485076d72b8eac0c5020f46d247bc9b07758a8a15c32231dbf",
-      "packedsize": 177,
+      "packedhash": "72b8432c3540d262166db266375729998c9ab42f5e18806de88246d11ab0e800",
+      "packedsize": 181,
       "url": "bin/qml/QtWebEngine/qmldir.lzma",
-      "unpackedhash": "63b83fd11ac1de975af815729fb657c9e708900b799be6a3ae10f6dfb0468db5",
-      "unpackedsize": 251
+      "unpackedhash": "1345338427c7840d32186d7afa6630ddc39c8cf51fbe5b5b3d5cef6ca5e1d3ba",
+      "unpackedsize": 261
     },
     {
       "localfile": "bin/qml/QtWebEngine/qtwebenginequickplugin.dll",
@@ -11299,19 +11299,19 @@
     },
     {
       "localfile": "bin/QtQuick/LegacyControls/qmldir",
-      "packedhash": "e7cfd66ce41faf83c62483e833bb2f9e3a254067494d6551bf9f2bc4ab4b3c1f",
-      "packedsize": 372,
+      "packedhash": "cee31e7cb60a6dd8f5dc276e3c16ee64c1c24f5d461e923d406dd64329fdd041",
+      "packedsize": 378,
       "url": "bin/QtQuick/LegacyControls/qmldir.lzma",
-      "unpackedhash": "f358a10cb90575841ef1035fa3c6e1cded3f000bc77d9dade2c6025162d1ad22",
-      "unpackedsize": 1010
+      "unpackedhash": "04d7217afa3d3cb0b9576a1ed77f3e29f0e0587127bde0befb45150b86b49097",
+      "unpackedsize": 1040
     },
     {
       "localfile": "bin/QtQuick/LegacyControls/Qt5LegacyControls.dll",
-      "packedhash": "0e7aafbfc4905456554d365273f04967ca416b65e9df3c6a137a76ee89bdb37e",
-      "packedsize": 216963,
+      "packedhash": "9ebc33da199bd7f62cf8b97540e2661af5c81937d8051fb6d043efbd32e52814",
+      "packedsize": 216929,
       "url": "bin/QtQuick/LegacyControls/Qt5LegacyControls.dll.lzma",
-      "unpackedhash": "4f4f52354216ef9a276a674be3a37ba655f8f47081071a4eb867bb4e7219d3d7",
-      "unpackedsize": 697800
+      "unpackedhash": "cbd6bf5ad6f54edf1cd4f43702b32536940fbbd460a67cf4d8d89d1a087be528",
+      "unpackedsize": 697808
     },
     {
       "localfile": "bin/resources/icudtl.dat",
@@ -11395,11 +11395,11 @@
     },
     {
       "localfile": "conf/gpublacklist.json",
-      "packedhash": "27932cb3be15107a814cbacc9aaafe08de4951e52ec086a8467e878b7fbc4f64",
-      "packedsize": 1216,
+      "packedhash": "64d83735b728d8cb5d296c2f2a9a58dec1d6b58b69f87c3cd5c27ecb721aac42",
+      "packedsize": 1222,
       "url": "conf/gpublacklist.json.lzma",
-      "unpackedhash": "eecec4b6936f9d3ac891b13f94d5e1727477c9104337380df14c720df6d2d893",
-      "unpackedsize": 6036
+      "unpackedhash": "057cc6d78c8893aa26e3aa734e6585671206b78c9cf0f96c03a2f33bd89ef48d",
+      "unpackedsize": 6242
     }
   ],
   "executable": "bin/client.exe",
